@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<phpdoc>
+    <title>Calendar</title>
+    <parser>
+        <target>reference/docs</target>
+    </parser>
+    <transformer>
+        <target>reference/docs</target>
+    </transformer>
+    <files>
+        <directory>.</directory>
+        <ignore>tests/*</ignore>
+        <ignore>vendor/*</ignore>
+        <ignore>autoload.php</ignore>
+    </files>
+</phpdoc>
