@@ -1,0 +1,16 @@
+{
+    "name": "jake/calendar",
+    "description": "Simple calendar example project",
+    "type": "library",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jake Humphrey",
+            "email": "jakehumphrey18@gmail.com"
+        }
+    ]
+}
